@@ -30,10 +30,7 @@
 1. 더 좁은 타입 범위와 any 간소화(진행중)
 2. 회원가입시 비밀번호 오류 에러(진행중)
 3. 새로고침시 데이터 유지
-4. 결제 페이지 구현 예정
-5. 스켈레톤 스크린 예정
-6. 상품 검색 기능 예정
-7. 지불 페이지 예정
+4. 스켈레톤 스크린
 
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
