@@ -21,7 +21,7 @@ cd app>backend>frontend
 => npm run deploy
 
 heroku
-최상단 root
+최상단 root app
 git subtree push --prefix app/backend heroku master
 
 ## 커밋 유형
